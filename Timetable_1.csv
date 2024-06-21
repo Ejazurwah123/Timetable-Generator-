@@ -1,0 +1,102 @@
+,Date,Day,Time Slot,Room Number,Teacher Name,Course Code,Student Name
+0,2024-06-21,Friday,11:20-12:20,c-208,usman rashid,ai2011,sam d edwards
+1,2024-06-22,Saturday,11:20-12:20,c-404,muhammad bin qasim,se110,yasmin ahmed
+2,2024-06-22,Saturday,09:00-10:00,c-305,mehboobullah,ee229,sarah n md sallehuddin khan
+3,2024-06-22,Saturday,09:00-10:00,c-305,mehboobullah,ee229,jenna riley
+4,2024-06-26,Wednesday,11:20-12:20,c-404,kifayat ullah,cs307,usman rafiq
+5,2024-06-22,Saturday,09:00-10:00,c-305,mehboobullah,ee229,kamal anwar
+6,2024-06-26,Wednesday,11:20-12:20,c-404,kifayat ullah,cs307,ana vukojevic
+7,2024-06-26,Wednesday,09:00-10:00,c-301,amna irum,cs328,natasha leeson
+8,2024-06-25,Tuesday,09:00-10:00,c-403,zohaib iqbal,cs217,adam n starling
+9,2024-06-22,Saturday,09:00-10:00,c-305,mehboobullah,ee229,maria m ponce carpio
+10,2024-06-23,Sunday,09:00-10:00,c-303,shahzad mehmood,mt224,iram matloob
+11,2024-06-21,Friday,16:00-17:00,c-307,tayyab nadeem,ss152,sarah j roberts
+12,2024-06-21,Friday,09:00-10:00,c-402,hamda khan,cs211,nabila altaf
+13,2024-06-26,Wednesday,11:20-12:20,c-404,kifayat ullah,cs307,yasmin ahmed
+14,2024-06-25,Tuesday,13:40-14:40,c-401,ameen chilwan,mt205,maria a grenfell
+15,2024-06-21,Friday,16:00-17:00,c-307,tayyab nadeem,ss152,mohammed i al arfaj
+16,2024-06-25,Tuesday,16:00-17:00,c-409,shafaq riaz,mg223,mohammed riyaz shahul hameed mohammed yakub
+17,2024-06-25,Tuesday,11:20-12:20,c-403,shams farooq,ss111,sarah armstrong
+18,2024-06-21,Friday,16:00-17:00,c-307,tayyab nadeem,ss152,sarah armstrong
+19,2024-06-26,Wednesday,09:00-10:00,c-301,amna irum,cs328,safiya issa
+20,2024-06-26,Wednesday,09:00-10:00,c-301,amna irum,cs328,sarah n md sallehuddin khan
+21,2024-06-26,Wednesday,11:20-12:20,c-404,kifayat ullah,cs307,sarah n md sallehuddin khan
+22,2024-06-21,Friday,13:40-14:40,c-407,sara aziz,ss113,natasha leeson
+23,2024-06-21,Friday,13:40-14:40,c-407,sara aziz,ss113,anja brezovnik
+24,2024-06-21,Friday,09:00-10:00,c-402,hamda khan,cs211,jenna riley
+25,2024-06-25,Tuesday,11:20-12:20,c-403,shams farooq,ss111,sarah austin
+26,2024-06-23,Sunday,11:20-12:20,c-306,asma nisa,cs219,yas khaled
+27,2024-06-25,Tuesday,13:40-14:40,c-401,ameen chilwan,mt205,nosheen maqbool
+28,2024-06-22,Saturday,09:00-10:00,c-305,mehboobullah,ee229,anja brezovnik
+29,2024-06-25,Tuesday,09:00-10:00,c-403,zohaib iqbal,cs217,sarah armstrong
+30,2024-06-26,Wednesday,09:00-10:00,c-301,amna irum,cs328,adam selby
+31,2024-06-22,Saturday,11:20-12:20,c-404,muhammad bin qasim,se110,jenna riley
+32,2024-06-22,Saturday,09:00-10:00,c-305,mehboobullah,ee229,nosheen maqbool
+33,2024-06-26,Wednesday,11:20-12:20,c-404,kifayat ullah,cs307,natasha leeson
+34,2024-06-22,Saturday,16:00-17:00,c-409,sadia nauman,mg220,zahra faraji rad
+35,2024-06-21,Friday,13:40-14:40,c-407,sara aziz,ss113,maria m ponce carpio
+36,2024-06-25,Tuesday,13:40-14:40,c-401,ameen chilwan,mt205,faris quaid
+37,2024-06-24,Monday,11:20-12:20,c-408,rohail gulbaz,cy2012,sajida ayub
+38,2024-06-24,Monday,11:20-12:20,c-408,rohail gulbaz,cy2012,mohammed riyaz shahul hameed mohammed yakub
+39,2024-06-25,Tuesday,16:00-17:00,c-409,shafaq riaz,mg223,sajida ayub
+40,2024-06-21,Friday,09:00-10:00,c-402,hamda khan,cs211,zeenat k guness-goolbar
+41,2024-06-21,Friday,11:20-12:20,c-208,usman rashid,ai2011,ana vukojevic
+42,2024-06-26,Wednesday,09:00-10:00,c-301,amna irum,cs328,farzana yamin
+43,2024-06-21,Friday,16:00-17:00,c-307,tayyab nadeem,ss152,dalia remeikyte
+44,2024-06-22,Saturday,16:00-17:00,c-409,sadia nauman,mg220,kamal anwar
+45,2024-06-24,Monday,13:40-14:40,c-401,hassan raza,ee227,adam n starling
+46,2024-06-21,Friday,16:00-17:00,c-307,tayyab nadeem,ss152,sam d edwards
+47,2024-06-24,Monday,11:20-12:20,c-408,rohail gulbaz,cy2012,farzana yamin
+48,2024-06-26,Wednesday,11:20-12:20,c-404,kifayat ullah,cs307,sarah j roberts
+49,2024-06-21,Friday,11:20-12:20,c-208,usman rashid,ai2011,safiya issa
+50,2024-06-22,Saturday,11:20-12:20,c-404,muhammad bin qasim,se110,faris quaid
+51,2024-06-22,Saturday,13:40-14:40,c-410,zainab moin,cs220,maria a grenfell
+52,2024-06-26,Wednesday,13:40-14:40,c-406,waseem shahzad,cs302,dalia remeikyte
+53,2024-06-24,Monday,16:00-17:00,c-308,javaria imtiaz,cs118,farzana yamin
+54,2024-06-23,Sunday,09:00-10:00,c-303,shahzad mehmood,mt224,sarah hanley
+55,2024-06-23,Sunday,13:40-14:40,c-405,sehrish hassan,ss118,sarah hanley
+56,2024-06-23,Sunday,16:00-17:00,c-405,muhammad usman,cs218,usman rafiq
+57,2024-06-22,Saturday,16:00-17:00,c-409,sadia nauman,mg220,yas khaled
+58,2024-06-22,Saturday,13:40-14:40,c-410,zainab moin,cs220,farzana yamin
+59,2024-06-26,Wednesday,09:00-10:00,c-301,amna irum,cs328,syed m abbas
+60,2024-06-23,Sunday,11:20-12:20,c-306,asma nisa,cs219,syed m abbas
+61,2024-06-21,Friday,09:00-10:00,c-402,hamda khan,cs211,safiya issa
+62,2024-06-25,Tuesday,16:00-17:00,c-409,shafaq riaz,mg223,sarah j roberts
+63,2024-06-23,Sunday,11:20-12:20,c-306,asma nisa,cs219,anja brezovnik
+64,2024-06-26,Wednesday,13:40-14:40,c-406,waseem shahzad,cs302,razan z haji zulkifli
+65,2024-06-26,Wednesday,09:00-10:00,c-301,amna irum,cs328,mohammed riyaz shahul hameed mohammed yakub
+66,2024-06-21,Friday,16:00-17:00,c-307,tayyab nadeem,ss152,ana vukojevic
+67,2024-06-21,Friday,09:00-10:00,c-402,hamda khan,cs211,adam n starling
+68,2024-06-24,Monday,11:20-12:20,c-408,rohail gulbaz,cy2012,yas khaled
+69,2024-06-25,Tuesday,16:00-17:00,c-409,shafaq riaz,mg223,sarah n md sallehuddin khan
+70,2024-06-25,Tuesday,11:20-12:20,c-403,shams farooq,ss111,nosheen maqbool
+71,2024-06-23,Sunday,16:00-17:00,c-405,muhammad usman,cs218,syed m abbas
+72,2024-06-21,Friday,13:40-14:40,c-407,sara aziz,ss113,sarah hanley
+73,2024-06-23,Sunday,09:00-10:00,c-303,shahzad mehmood,mt224,nabila altaf
+74,2024-06-22,Saturday,16:00-17:00,c-409,sadia nauman,mg220,adam selby
+75,2024-06-21,Friday,09:00-10:00,c-402,hamda khan,cs211,razan z haji zulkifli
+76,2024-06-21,Friday,13:40-14:40,c-407,sara aziz,ss113,yasmin ahmed
+77,2024-06-24,Monday,16:00-17:00,c-308,javaria imtiaz,cs118,nosheen maqbool
+78,2024-06-21,Friday,09:00-10:00,c-402,hamda khan,cs211,natasha leeson
+79,2024-06-26,Wednesday,09:00-10:00,c-301,amna irum,cs328,razan z haji zulkifli
+80,2024-06-26,Wednesday,09:00-10:00,c-301,amna irum,cs328,sarah austin
+81,2024-06-26,Wednesday,13:40-14:40,c-406,waseem shahzad,cs302,zeenat k guness-goolbar
+82,2024-06-22,Saturday,13:40-14:40,c-410,zainab moin,cs220,iram matloob
+83,2024-06-25,Tuesday,13:40-14:40,c-401,ameen chilwan,mt205,adam selby
+84,2024-06-22,Saturday,09:00-10:00,c-305,mehboobullah,ee229,nabila altaf
+85,2024-06-23,Sunday,11:20-12:20,c-306,asma nisa,cs219,zahra faraji rad
+86,2024-06-26,Wednesday,13:40-14:40,c-406,waseem shahzad,cs302,anja brezovnik
+87,2024-06-22,Saturday,09:00-10:00,c-305,mehboobullah,ee229,sam d edwards
+88,2024-06-25,Tuesday,09:00-10:00,c-403,zohaib iqbal,cs217,dalia remeikyte
+89,2024-06-24,Monday,13:40-14:40,c-401,hassan raza,ee227,maria a grenfell
+90,2024-06-24,Monday,16:00-17:00,c-308,javaria imtiaz,cs118,usman rafiq
+91,2024-06-22,Saturday,16:00-17:00,c-409,sadia nauman,mg220,iram matloob
+92,2024-06-25,Tuesday,16:00-17:00,c-409,shafaq riaz,mg223,nabila altaf
+93,2024-06-24,Monday,13:40-14:40,c-401,hassan raza,ee227,maria m ponce carpio
+94,2024-06-25,Tuesday,11:20-12:20,c-403,shams farooq,ss111,faris quaid
+95,2024-06-21,Friday,16:00-17:00,c-307,tayyab nadeem,ss152,kamal anwar
+96,2024-06-26,Wednesday,09:00-10:00,c-301,amna irum,cs328,sajida ayub
+97,2024-06-22,Saturday,11:20-12:20,c-404,muhammad bin qasim,se110,mohammed i al arfaj
+98,2024-06-21,Friday,09:00-10:00,c-402,hamda khan,cs211,mohammed i al arfaj
+99,2024-06-22,Saturday,16:00-17:00,c-409,sadia nauman,mg220,sarah austin
+100,2024-06-24,Monday,16:00-17:00,c-308,javaria imtiaz,cs118,zahra faraji rad
